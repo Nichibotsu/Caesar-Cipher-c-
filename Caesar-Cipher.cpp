@@ -64,4 +64,5 @@ int main(){
     else{
         cout<<"\n\nVerschiebung ist zu gross oder zu klein.Starte das Programm neu.\n\n";
     }
+    system("pause");//Damit mit die Console erst nach User-Input schließt
 }
